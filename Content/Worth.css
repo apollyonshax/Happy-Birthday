@@ -1,0 +1,37 @@
+body{
+background-image: url("020819_diamonds.jpg");
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1300px 800px;
+}
+
+.content
+{
+
+    margin-top: 10px;
+    padding: 2px;
+  
+  }
+    
+h2{
+    color: ghostwhite;
+    text-align: center;
+      font-family:  Times, Times New Roman, serif;
+    font-size: 17px;
+    font-style: italic;
+    font-size:40px;
+}
+ 
+p
+{
+
+    font-family:  Times, Times New Roman, serif;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bold;
+    color:whitesmoke;
+     width: 50%;
+    margin-left: 5px;
+    margin-top: 20px;
+    line-height: 1.6;
+}

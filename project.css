@@ -1,0 +1,41 @@
+.header{
+text-align: center;
+color: darkred;
+}
+
+.option{
+ 
+   border: 2px outset white;
+  
+   
+   
+}
+
+ul#menu li {
+        display: inline-block;
+        width: 40%;
+text-align: center;
+    padding: 45px;
+
+}
+
+.audio{
+    text-align: center;
+}
+
+.content{
+
+}
+
+body{
+background-image: url("content/15.jpg");
+background-position: right;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div.option h2{
+    color: white;
+      font-family:
+
+}

@@ -1,0 +1,35 @@
+body{
+background-image: url("1268363.jpg");
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1300px 850px
+}
+
+.content
+{
+
+    margin-top: 50px;
+    padding: 5px;
+  }
+    
+h2{
+    color:azure;
+    text-align: center;
+      font-family:  Times, Times New Roman, serif;
+    font-size: 17px;
+    font-style: italic;
+    font-size:40px;
+}
+ 
+p
+{
+
+    font-family:  Times, Times New Roman, serif;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bold;
+    color:navajowhite;
+    line-height: 1.6;
+    width:50%;
+   
+}

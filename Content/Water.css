@@ -1,0 +1,33 @@
+body{
+background-image: url("photo-1549074862-6173e20d02a8.jpg");
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1300px 1730px;
+}
+
+.content
+{
+
+    margin-top: 20px;
+    padding: 5px;
+  }
+    
+h2{
+    color: darkblue;
+    text-align: center;
+      font-family:  Times, Times New Roman, serif;
+    font-size: 17px;
+    font-style: italic;
+    font-size:40px;
+}
+ 
+p
+{
+
+    font-family:  Times, Times New Roman, serif;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bold;
+    color:whitesmoke;
+   
+}

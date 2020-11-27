@@ -1,0 +1,60 @@
+.Header{
+text-align: center;
+color: DarkRed;
+}
+
+ figure {
+        border: 1px #cccccc solid;
+        
+    }
+
+    img{
+    
+      width:100%;
+       object-fit: fill;
+	height: 250px;
+
+
+    }
+
+    figcaption {
+        background-color: black;
+        color: white;
+        font-style: italic;
+       
+        text-align: center;
+    }
+
+
+    ul#menu li {
+        display: inline-block;
+        width:33%;
+
+    }
+
+
+
+
+
+    .image
+    {
+       width: 100%;
+        margin:1px;
+	margin-top: 20px;
+
+    }
+
+.expand{
+    height:500px;
+}
+
+body{
+ background-image: url('bg images/3d-render-spotlights-grunge-brick-wall_1048-6284.jpg');
+
+}
+
+h2{
+    text-align: center;
+color: DarkRed;
+    font-size: 30px;
+}

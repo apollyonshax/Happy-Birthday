@@ -1,0 +1,34 @@
+body{
+background-image: url("st-vic-photography-Bnm0Ntarz6o-unsplash.jpg");
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1300px 1730px;
+}
+
+.content
+{
+
+    margin-top: 20px;
+    padding: 5px;
+  }
+    
+h2{
+    color: darkviolet;
+    text-align: center;
+      font-family:  Times, Times New Roman, serif;
+    font-size: 17px;
+    font-style: italic;
+    font-size:40px;
+}
+ 
+p
+{
+
+    font-family:  Times, Times New Roman, serif;
+    font-size: 17px;
+    font-style: italic;
+    font-weight: bold;
+    color:Orchid;
+    line-height: 1.6;
+   
+}

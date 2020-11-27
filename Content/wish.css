@@ -1,0 +1,23 @@
+body{
+background-image: url("21.jpg");
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: 1300px 1730px;
+}
+
+.content
+{
+    width: 63%;
+    margin: 18px;
+    padding: 18px;
+  }
+    
+ 
+p
+{
+
+    font-family:  Times, Times New Roman, serif;
+    font-size: 17px;
+    font-style: italic;
+   
+}
